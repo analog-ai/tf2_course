@@ -11,7 +11,7 @@ If you are looking for the code accompanying my O'Reilly book, [Hands-on Machine
 
 # Installation
 
-First, you will need to install [git](https://git-scm.com/), if you don't have it already.
+만일 git이 없다면 git을 먼저 설치한다. [git](https://git-scm.com/) 
 
 Next, clone this repository by opening a terminal and typing the following commands:
 
